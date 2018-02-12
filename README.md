@@ -1,1 +1,1 @@
-jst a test
+it is jst a test
